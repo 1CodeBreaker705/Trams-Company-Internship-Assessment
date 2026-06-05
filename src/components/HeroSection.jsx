@@ -27,7 +27,7 @@ const HeroSection = () => {
         <img src={img7} className="hidden lg:block absolute h-[226px] w-[226px]  left-[1450px] top-[570px] " alt="" />
         <img src={img8} className="hidden lg:block absolute h-[226px] w-[226px]  right-[20px] top-[750px] " alt="" />
         <div className="hidden lg:block absolute w-[405px] h-[137px] bg-[#FFC2EA] rounded-full left-[1229px] top-[137px] z-[-1]"></div>
-        <div className="hidden lg:block absolute w-[450px] h-[109px] bg-[#D6EDDD] rounded-full left-[550px] top-[268px] z-[-1]"></div>
+        <div className="hidden lg:block absolute w-[445px] h-[109px] bg-[#D6EDDD] rounded-full left-[555px] top-[268px] z-[-1]"></div>
         <div className="h-full mx-auto max-w-[1844px]">
           <div className="max-w-[1305px] mx-auto px-4 lg:px-0 ">
             <h1 className="font-gerbil text-[42px] md:text-[70px] lg:text-[100px] leading-[52px] md:leading-[90px] lg:leading-[126px] text-center">
