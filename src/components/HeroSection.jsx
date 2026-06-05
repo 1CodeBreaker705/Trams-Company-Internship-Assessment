@@ -1,6 +1,6 @@
 import vector2510 from "../assets/Vector 2510.png";
 import vector2511 from "../assets/Vector 2511.png";
-import vector5 from "../assets/vector 5.svg";
+import vector5 from "../assets/Vector 5.svg";
 import Ellipse736 from "../assets/Ellipse 736.svg";
 import img1 from "../assets/Ellipse 262.png";
 import img2 from "../assets/Ellipse 261.png";
