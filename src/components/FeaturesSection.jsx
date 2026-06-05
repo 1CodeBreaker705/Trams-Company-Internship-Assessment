@@ -10,7 +10,7 @@ const FeaturesSection = () => {
   return (
     <>
       <section className="relative z-10 lg:h-[1370px] mt-32 lg:mt-80">
-        <div className="hidden lg:block absolute w-[214px] h-[81px] bg-[#D6EDDD] rounded-full left-[542px] top-[205px] z-[-1]"/>
+        <div className="hidden lg:block absolute w-[214px] h-[81px] bg-[#D6EDDD] rounded-full left-[542px] top-[207px] z-[-1]"/>
         <img src={vector5} className="hidden lg:block absolute top-[190px] left-[180px] h-[30px] w-[371px] object-cover  z-[-1] " alt="" />
         <div className="hidden lg:block absolute w-[170px] h-[81px] bg-[#D6EDDD] rounded-full right-[711px] bottom-[430px] z-[-1]"/>
         <img src={vector5} className="hidden lg:block absolute bottom-[345px] right-[220px] h-[30px] w-[371px] object-cover  z-[-1] " alt="" />
