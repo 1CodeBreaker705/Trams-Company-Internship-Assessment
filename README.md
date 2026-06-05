@@ -169,7 +169,7 @@ Through this project I improved my understanding of:
 Add your deployed Vercel link here:
 
 ```txt
-https://your-project.vercel.app
+https://trams-company-internship-assessment.vercel.app/
 ```
 
 ## Design Reference
@@ -179,6 +179,7 @@ Figma Design:
 ```txt
 https://www.figma.com/design/0K35IOZ4Qwqur0b9o2PXlN/Assignment
 ```
+or in public/FigmaDesign.jpg
 
 ## Author
 
