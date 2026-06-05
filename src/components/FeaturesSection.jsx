@@ -1,10 +1,10 @@
 import Arrow4 from "../assets/Arrow 4.png";
 import img348 from "../assets/image 348.png";
 import img349 from "../assets/image 349.png";
-import vector5 from "../assets/vector 5.svg";
-import Polygon1 from "../assets/polygon 1.png"
-import Polygon3 from "../assets/polygon 3.png"
-import vector2517 from "../assets/vector 2517.png";
+import vector5 from "../assets/Vector 5.svg";
+import Polygon1 from "../assets/Polygon 1.png"
+import Polygon3 from "../assets/Polygon 3.png"
+import vector2517 from "../assets/Vector 2517.png";
 
 const FeaturesSection = () => {
   return (
